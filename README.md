@@ -25,5 +25,9 @@ Analiza.py
 ![image](https://github.com/user-attachments/assets/11aa5331-7130-45c7-9538-7b1a88c13877)
 
 
+Rezultatul analizei noastre 
+![image](https://github.com/user-attachments/assets/eb252529-9afe-4a46-bc28-d0c32c958d10)
+
+
 
 
