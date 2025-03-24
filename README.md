@@ -15,3 +15,15 @@ After that we need to think about how we can process that data to get the desire
 ![image](https://github.com/user-attachments/assets/e9b39a65-8adf-433f-bcaf-12546aab4eaf)
 ![image](https://github.com/user-attachments/assets/a4c46190-ee37-407a-8d96-9c74f6a9d923)
 ![image](https://github.com/user-attachments/assets/b72eceae-762b-4536-9a08-bcecd20d2ca4)
+
+
+Analiza.py
+![image](https://github.com/user-attachments/assets/0b229c64-2b95-48d3-9853-032bdbaaa521)
+![image](https://github.com/user-attachments/assets/3b1633b8-121e-4ba7-90ff-6b4327984249)
+![image](https://github.com/user-attachments/assets/48774aa1-6f56-4716-a886-1028b44be1dd)
+![image](https://github.com/user-attachments/assets/a7fae2a4-81ee-4043-86b3-337f400668fc)
+![image](https://github.com/user-attachments/assets/11aa5331-7130-45c7-9538-7b1a88c13877)
+
+
+
+
