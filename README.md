@@ -31,5 +31,6 @@ Rezultatul analizei noastre
 Grafice si analiza
 ![image](https://github.com/user-attachments/assets/f262d30b-7fd5-4c53-8130-bea78d9c912f)
 
+With Rezolvare.py we precess the data and put them in separate excel spreadsheets separating the duplicate values from the unique ones and we also make a graph with this weight to see better, anyway I am aware that there is room for improvement for my projects so far 
 
-
+May your dreams come true :)))
