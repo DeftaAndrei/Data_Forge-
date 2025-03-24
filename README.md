@@ -11,6 +11,7 @@ Convert.py
 ![image](https://github.com/user-attachments/assets/ebba794c-aa7c-42df-9c56-47f781704920)
 
 After that we need to think about how we can process that data to get the desired result and group duplicates 
+
 ![image](https://github.com/user-attachments/assets/e9b39a65-8adf-433f-bcaf-12546aab4eaf)
 ![image](https://github.com/user-attachments/assets/a4c46190-ee37-407a-8d96-9c74f6a9d923)
 ![image](https://github.com/user-attachments/assets/b72eceae-762b-4536-9a08-bcecd20d2ca4)
