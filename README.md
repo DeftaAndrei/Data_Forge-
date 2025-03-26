@@ -2,6 +2,8 @@
 Processing and refining big data
 
 First we have to think about how we can see them
+In these files I want to sort the information and put it in excel but use a python script so that I can sort the data
+And to make a new excel with the new information and we can easily compress it after 
 
 
 Read.py
